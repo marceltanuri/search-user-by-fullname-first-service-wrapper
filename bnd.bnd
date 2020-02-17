@@ -1,0 +1,3 @@
+Bundle-Name: search-user-by-fullname-first-service-wrapper
+Bundle-SymbolicName: com.br.mtanuri.liferay.user.service.wrapper
+Bundle-Version: 1.0.0
